@@ -1,0 +1,13 @@
+nhmt_LMRt_pages2k.pkl filter=lfs diff=lfs merge=lfs -text
+nhmt_LMRt_pages2k.tree.pkl filter=lfs diff=lfs merge=lfs -text
+nhmt_LMRt_pseudo.pages2k.tree.trw_JJAproxy.pkl filter=lfs diff=lfs merge=lfs -text
+nhmt_LMRt_pseudo.pages2k.tree.trw.pkl filter=lfs diff=lfs merge=lfs -text
+nhmt_LMRt_pseudo.pages2k.tree.trw_smoother_noise.pkl filter=lfs diff=lfs merge=lfs -text
+nhmt_LMRt_pseudo.pages2k.tree.trw_smoother.pkl filter=lfs diff=lfs merge=lfs -text
+rmt_LMRt_ntrend.mxd.pkl filter=lfs diff=lfs merge=lfs -text
+nhmt_LMRt_pages2k.tree.mxd.pkl filter=lfs diff=lfs merge=lfs -text
+nhmt_LMRt_pages2k.tree.trw.pkl filter=lfs diff=lfs merge=lfs -text
+nhmt_LMRt_pseudo.pages2k.tree.trw_JJAproxy_JJA.pkl filter=lfs diff=lfs merge=lfs -text
+nhmt_LMRt_pseudo.pages2k.tree.trw_NA50.pkl filter=lfs diff=lfs merge=lfs -text
+nhmt_LMRt_pseudo.pages2k.tree.trw_NH50.pkl filter=lfs diff=lfs merge=lfs -text
+rmt_LMRt_pages2k.tree.mxd.pkl filter=lfs diff=lfs merge=lfs -text
