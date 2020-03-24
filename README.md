@@ -37,4 +37,4 @@ The code is tested with Python v3.7, and the package [LMRt](https://github.com/f
 
 ## How to cite this repository
 
-+ Feng Zhu, Julien Emile-Geay, Gregory J. Hakim, Jonathan King, & Kevin J. Anchukaitis. (2020, March 24). LMRvolc: the data & code repository for "Resolving the differences in the simulated and reconstructed temperature response to volcanism" (Version v1.0). Zenodo.  http://doi.org/10.5281/zenodo.3725031
++ Feng Zhu, Julien Emile-Geay, Gregory J. Hakim, Jonathan King, & Kevin J. Anchukaitis. (2020, March 24). LMRvolc: the data & code repository for "Resolving the differences in the simulated and reconstructed temperature response to volcanism". Zenodo.  http://doi.org/10.5281/zenodo.3725050
