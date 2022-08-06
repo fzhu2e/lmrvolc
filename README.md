@@ -2,10 +2,12 @@
 
 # LMRvolc: data & code repository for "Resolving the differences in the simulated and reconstructed temperature response to volcanism"
 
-This repository includes the data and code that can be used to reproduce the figures for the paper entitled _Resolving the differences in the simulated and reconstructed temperature response to volcanism_ published in _Geophysical Research Letters_.
+This repository includes the data and code that can be used to reproduce the figures for the paper:
++ Zhu, F., Emile‐Geay, J., Hakim, G. J., King, J., & Anchukaitis, K. J. (2020). Resolving the Differences in the Simulated and Reconstructed Temperature Response to Volcanism. Geophysical Research Letters, 47(8), e2019GL086908. https://doi.org/10.1029/2019GL086908
 
 The code is tested with Python v3.7, and the package [LMRt](https://github.com/fzhu2e/LMRt) (Zhu et. al., 2019) is required to perform essential analysis (e.g. Superposed Epoch Analysis) and the corresponding visualization.
 
+Note: due to shortage of GitHub LFS storage of the account, the directory for data is moved to Google Drive and can be downloaded with this [link](https://drive.google.com/drive/folders/1cN0zy9dSc1FnctnDAfTl0hJcATCUNl4F?usp=sharing).
 
 ## Repository Structure
 
@@ -14,7 +16,7 @@ The code is tested with Python v3.7, and the package [LMRt](https://github.com/f
     - Fig-2.ipynb : the notebook that performs analysis and generates Fig. 2 of the main text
     - Fig-3.ipynb : the notebook that performs analysis and generates Fig. 3 of the main text
     - Fig-4.ipynb : the notebook that performs analysis and generates Fig. 4 of the main text
-+ data
++ data (moved to Google Drive: [download link](https://drive.google.com/drive/folders/1cN0zy9dSc1FnctnDAfTl0hJcATCUNl4F?usp=sharing))
     - volc_forcing : volcanic forcing data
         - eVolv2k_v3_ds_1.nc : the eVolv2k version 3 Volcanic Stratospheric Sulfur Injection (VSSI) compilation (Toohey & Sigl, 2017).
         - IVI2TotalInjection_501-2000Version2.txt : Version 2 of IVI2 hemispheric and global volcanic stratospheric sulfate injection (Gao et al., 2008)
@@ -49,4 +51,5 @@ The code is tested with Python v3.7, and the package [LMRt](https://github.com/f
 
 ## How to cite this repository
 + Feng Zhu, Julien Emile-Geay, Gregory J. Hakim, Jonathan King, & Kevin J.  Anchukaitis. (2020, March 24). LMRvolc: the data & code repository for "Resolving the differences in the simulated and reconstructed temperature response to volcanism". Zenodo.  http://doi.org/10.5281/zenodo.3725030.
+
 
